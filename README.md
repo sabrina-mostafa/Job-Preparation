@@ -1,7 +1,12 @@
 # Job-Preparation
 <br>
 
-### **1. Technical Topics**  
+### **1. Technical Topics**
+- **Programing**  
+  - C/C++  
+  - JavaScript  
+  - Python/JAVA 
+    
 - **Data Structures & Algorithms**  
   - Sorting (QuickSort, MergeSort, etc.)  
   - Searching (Binary Search, Hashing)  
