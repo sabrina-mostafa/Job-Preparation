@@ -8,7 +8,7 @@
   - Linked List, Stack, Queue, Trees, Graphs  
   - Recursion & Dynamic Programming  
 
-- **OOP (Object-Oriented Programming)**  
+- **[OOP (Object-Oriented Programming)](https://github.com/sabrina-mostafa/OOPs)**  
   - Concepts: Encapsulation, Inheritance, Polymorphism, Abstraction  
   - Design Patterns (Singleton, Factory, Observer, etc.)  
 
