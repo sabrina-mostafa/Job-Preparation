@@ -11,7 +11,7 @@
   - Sorting (QuickSort, MergeSort, etc.)  
   - Searching (Binary Search, Hashing)  
   - Linked List, Stack, Queue, Trees, Graphs([Tree](https://github.com/sabrina-mostafa/Data-Structure/blob/main/Graph/Tree/Into.md), BFS, DFS)  
-  - Recursion & Dynamic Programming  
+  - [Recursion](https://github.com/sabrina-mostafa/Data-Structure/tree/main/Recursion) & Dynamic Programming  
 
 - **[OOP (Object-Oriented Programming)](https://github.com/sabrina-mostafa/OOPs)**  
   - Concepts: Encapsulation, Inheritance, Polymorphism, Abstraction  
