@@ -1,6 +1,9 @@
 # Job-Preparation
 <br>
 
+## My Repository of Notes: 
+- [Here](https://github.com/sabrina-mostafa/Short-FormulaS-and-NoteS)
+
 ### **1. Technical Topics**
 - **Programing**  
   - C/C++  
