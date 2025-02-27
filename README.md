@@ -44,4 +44,4 @@
 - **Mock Tests:** Try to simulate a 60-minute test environment to improve speed.  
 - **Stay Updated:** Check your email/spam for the exam link before the test starts.  
 
-Since you have experience in competitive programming, you already have a strong foundation! Just revise and brush up on these topics, and you’ll do great. 😊
+
